@@ -1,0 +1,21 @@
+$n: 15; // 流星數量
+$s: 300; // star數量
+
+body {
+  overflow: auto;
+}
+
+$shadow: ();
+
+@for $i from 1 through $s {
+  $x: random(1920);
+  $y: random(1000);
+  $shadow: $shadow, ( $x+px $y+px #fff) !global;
+}
+
+.star {
+  width: 1px;
+  height: 1px;
+  background: transparent;
+  box-shadow: $shadow;
+}

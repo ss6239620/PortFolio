@@ -1,0 +1,15 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -250px; /* Hide the sidebar off the screen initially */
+    width: 250px;
+    height: 100vh;
+    background-color: #1f2eb5;
+    transition: left 0.3s ease;
+    z-index: 999;
+  }
+  
+  .sidebar.open {
+    left: 0; /* Show the sidebar when it's open */
+  }
+  
