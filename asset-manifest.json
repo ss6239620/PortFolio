@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.efdf478e.css",
-    "main.js": "/static/js/main.4218cc56.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/volo_mart.png": "/static/media/volo_mart.7d32e2706e2edc271082.png",
-    "static/media/bus.jpeg": "/static/media/bus.7495ac676ce2e61d2fd0.jpeg",
-    "static/media/sharveshgpt.jpeg": "/static/media/sharveshgpt.50c447a994a75c9e73b2.jpeg",
-    "static/media/chess.jpeg": "/static/media/chess.819431112eaa90d02054.jpeg",
-    "index.html": "/index.html",
-    "main.efdf478e.css.map": "/static/css/main.efdf478e.css.map",
-    "main.4218cc56.js.map": "/static/js/main.4218cc56.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/PortFolio/static/css/main.23bf50d3.css",
+    "main.js": "/PortFolio/static/js/main.59728d53.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortFolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/volo_mart.png": "/PortFolio/static/media/volo_mart.7d32e2706e2edc271082.png",
+    "static/media/bus.jpeg": "/PortFolio/static/media/bus.7495ac676ce2e61d2fd0.jpeg",
+    "static/media/sharveshgpt.jpeg": "/PortFolio/static/media/sharveshgpt.50c447a994a75c9e73b2.jpeg",
+    "static/media/chess.jpeg": "/PortFolio/static/media/chess.819431112eaa90d02054.jpeg",
+    "index.html": "/PortFolio/index.html",
+    "main.23bf50d3.css.map": "/PortFolio/static/css/main.23bf50d3.css.map",
+    "main.59728d53.js.map": "/PortFolio/static/js/main.59728d53.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortFolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efdf478e.css",
-    "static/js/main.4218cc56.js"
+    "static/css/main.23bf50d3.css",
+    "static/js/main.59728d53.js"
   ]
 }
