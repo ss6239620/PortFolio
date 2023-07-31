@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d201ceb5.css",
+    "main.css": "/static/css/main.c4d4b3d8.css",
     "main.js": "/static/js/main.4218cc56.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/volo_mart.png": "/static/media/volo_mart.7d32e2706e2edc271082.png",
@@ -8,12 +8,12 @@
     "static/media/sharveshgpt.jpeg": "/static/media/sharveshgpt.50c447a994a75c9e73b2.jpeg",
     "static/media/chess.jpeg": "/static/media/chess.819431112eaa90d02054.jpeg",
     "index.html": "/index.html",
-    "main.d201ceb5.css.map": "/static/css/main.d201ceb5.css.map",
+    "main.c4d4b3d8.css.map": "/static/css/main.c4d4b3d8.css.map",
     "main.4218cc56.js.map": "/static/js/main.4218cc56.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d201ceb5.css",
+    "static/css/main.c4d4b3d8.css",
     "static/js/main.4218cc56.js"
   ]
 }
